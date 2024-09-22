@@ -1,27 +1,42 @@
-# Project Name
+# Cat Painting
 
-> One paragraph statement about the project.
+> A Painting Cat built with CSS.
 
-![screenshot](./app_screenshot.png)
+![12-fcc-cat-painting](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html elements
+  - `div`,
+- CSS,
+  - `position`,
+  - `transform`
+  - `background-color`
+  - `width`
+  - `border-radius`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
+
+prettier
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+
+[Deployment-link](https://vercel.com/onikosi-omotayo-eniolas-projects/12-fcc-cat-painting)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
